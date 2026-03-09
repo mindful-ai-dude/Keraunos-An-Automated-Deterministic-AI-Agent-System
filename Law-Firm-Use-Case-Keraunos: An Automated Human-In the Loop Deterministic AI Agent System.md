@@ -2,7 +2,6 @@
 ![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
 
 ## The Synthesis: Law Firm Use Case 
-### Small, Medium and Large Law Firms
 
 ![Legal Use Case](images/legal_use_case.png)
 
