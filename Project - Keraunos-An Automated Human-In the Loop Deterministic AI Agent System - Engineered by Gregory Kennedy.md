@@ -1,4 +1,4 @@
-### Keraunos: An Automated Human-In the Loop Deterministic AI Agent System
+### Keraunos: An Automated Deterministic AI Agent System
 
 ![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
 
