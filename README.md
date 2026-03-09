@@ -83,7 +83,7 @@ Self-hosted. Air-gappable. Built on custom fine-tuned open-source models for you
 
 ![Executive Summary Visualization](images/executive_summary_viz.png)
 
-This overview synthesizes three cutting-edge approaches into a unified, implementable system:
+Keraunos synthesizes cutting-edge approaches into a unified deterministic system:
 
 **Stripe's Minions Blueprint Pattern** — Deterministic orchestration nodes interleaved with bounded non-deterministic LLM reasoning. The core insight: "putting LLMs into contained boxes compounds into system-wide reliability upside." Over 1,000 merged PRs/week at Stripe using this exact pattern.
 
