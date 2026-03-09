@@ -1,6 +1,6 @@
 ### Keraunos: An Automated Human-In the Loop Deterministic AI Agent System
 
-![Keraunos Logo](images/v1_keraunos_ai_logo.png)
+![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
 
 ### by Gregory Kennedy ML/AI Engineer | March 2026
 
