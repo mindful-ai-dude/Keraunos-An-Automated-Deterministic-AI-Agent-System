@@ -1,8 +1,7 @@
 ### Keraunos: An Automated Deterministic AI Agent System
+## Engineered by Gregory Kennedy ML/AI Engineer | March 2026
 
 ![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
-
-### by Gregory Kennedy ML/AI Engineer | March 2026
 
 ---
 
