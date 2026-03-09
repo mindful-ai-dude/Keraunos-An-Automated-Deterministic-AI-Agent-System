@@ -52,7 +52,6 @@ Keraunos addresses every failure point:
 | No quality guarantee | 10-stage pipeline with deterministic quality gates. Max 2 AI fix attempts before human escalation. |
 
 ---
-
 ## 2. The Keraunos Legal Pipeline: 10 Stages
 
 ![Legal Use Case Pipeline](images/legal_use_case_pipeline.png)
@@ -60,10 +59,7 @@ Keraunos addresses every failure point:
 When a legal professional triggers Keraunos (typing `/legal Draft an NDA for...`), the following 10-stage pipeline executes:
 
 ![AI Sequential AI Legal Pipeline](images/legal_pipeline_diagram_color.png)
-
-■ = Deterministic (fixed code, AI cannot bypass)
-◆ = Non-Deterministic (bounded LLM, max 2 fix rounds)
-
+---
 
 ### Stage Details
 
