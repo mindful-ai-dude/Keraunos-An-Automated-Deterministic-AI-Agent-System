@@ -57,6 +57,7 @@ Keraunos addresses every failure point:
 
 When a legal professional triggers Keraunos (typing `/legal Draft an NDA for...`), the following 10-stage pipeline executes:
 ![AI Sequential AI Legal Pipeline](images/legal_pipeline_diagram_color.png)
+---
 
 ### Stage Details
 
