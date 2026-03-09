@@ -1,9 +1,6 @@
 ### Keraunos: An Automated Human-In the Loop Deterministic AI Agent System
 ![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
 
-### Keraunos: An Automated Human-In the Loop Deterministic AI Agent System
-![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
-
 ### Keraunos: A Deterministic AI Agent System
 
 **Keraunos: The Thunderbolt of Zeus, forged by the Cyclopes in the heart of Mount Etna.**
