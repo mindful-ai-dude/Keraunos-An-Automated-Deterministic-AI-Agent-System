@@ -1,9 +1,51 @@
 ### Keraunos: An Automated Human-In the Loop Deterministic AI Agent System
 ![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
 
-## The Synthesis: Law Firm Use Case 
+### Keraunos: An Automated Human-In the Loop Deterministic AI Agent System
+![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
 
+### Keraunos: A Deterministic AI Agent System
+
+**Keraunos: The Thunderbolt of Zeus, forged by the Cyclopes in the heart of Mount Etna.**
+
+A tool of absolute precision. It struck exactly where Zeus aimed, every time, without exception.
+
+That is the design philosophy of Keraunos.
+
+In a world flooded with AI tools that generate questionable "hope for the best" non-deterministic output, Keraunos is the thunderbolt that strikes with deterministic certainty. 
+
+**Keraunos is a system built on the principle** that **the machine must prove its work before a human ever sees it.**
+
+Ten deterministic stages. Sixty-four custom MCP tools. Every output passes automated linting, security scanning, and test execution enforced by quality gates that the AI cannot bypass, skip, or reorder. If Keraunos fails to fix an issue after two attempts, it does what no other AI tool does: it stops and asks a human for help.
+
+**The Keraunos pipeline can verify its own remediations. Fix a problem, re-scan, confirm it is resolved — all in one automated flow. No other available tool closes the loop deterministically.**
+
+The ancient Greeks understood that true power is not brute force it is force applied with divine precision. The Cyclopes did not forge a bigger hammer. They forged a bolt that never missed.
+
+Keraunos does not generate code or documents and hope they work.  
+Keraunos generates code and documents and *proves* it works.
+
+Self-hosted. Air-gappable. Built on custom fine-tuned open-source models for your specific use cases.
+
+---
 ![Legal Use Case](images/legal_use_case.png)
+
+## Table of Contents
+
+1. [Keraunos for Law Firms: Complete Use Case](#keraunos-for-law-firms-complete-use-case)
+   - [The Synthesis: Law Firm Use Case](#the-synthesis-law-firm-use-case-small-medium-and-large-law-firms)
+   - [The Problem: Why Law Firms Need This](#1-the-problem-why-law-firms-need-this)
+   - [The Keraunos Legal Pipeline: 10 Stages](#2-the-keraunos-legal-pipeline-10-stages)
+   - [Legal-Specific MCP Tools](#3-legal-specific-mcp-tools-the-legal-toolshed)
+   - [Custom Fine-Tuned Legal Model](#4-custom-fine-tuned-legal-model-the-distillation-system)
+   - [Data Sovereignty and Ethical Compliance](#5-data-sovereignty-and-ethical-compliance)
+   - [Financial Impact](#6-financial-impact)
+   - [Implementation Roadmap](#7-implementation-roadmap)
+   - [Competitive Differentiation](#8-competitive-differentiation)
+   - [Risk Mitigation](#9-risk-mitigation)
+   - [Summary for Law Firm Partners](#10-summary-for-law-firm-partners)
+
+## The Synthesis: Law Firm Use Case 
 
 A partner types in a "Legal Document Agent" USE CASE — for example, "Draft an NDA for a SaaS vendor handling PHI data, governed by California law, with a 2-year term and mutual non-disclosure obligations." The system — powered by a Goose-based agent runtime — uses the Blueprint Pipeline (Stripe pattern) where deterministic nodes handle jurisdiction detection, regulatory clause extraction, template compliance validation, citation verification, conflict-of-interest scanning, and privilege-safe audit logging, while non-deterministic nodes (bounded LLM calls) handle clause drafting, risk analysis narrative, and plain-language summary generation. 
 
