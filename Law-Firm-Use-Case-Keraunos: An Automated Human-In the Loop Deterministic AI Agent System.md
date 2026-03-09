@@ -377,3 +377,11 @@ This is the question every firm asks. The answer is the pipeline architecture it
 **The competitive case:** No other legal AI product offers deterministic compliance verification, custom fine-tuned models from the firm's own precedent, and full data sovereignty. Harvey and CoCounsel are cloud-only, generic-model products with no quality gates. Keraunos is the only system where the AI must prove its work before a human sees it.
 
 *Keraunos does not draft documents and hope they are correct. Keraunos drafts documents and proves they are correct.*
+
+---
+
+*By Gregory Kennedy | Keraunos - A Deterministic AI Agent System | March 2026*
+
+*My Sources: [Archix](https://arxiv.org/) Research Papers, Stripe Dev Blog and Team Minions: Stripe’s one-shot, end-to-end coding agents: Part 1 - https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents Part 2- https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2, Linkedins Erran Berger (VP of Product Engineering) https://youtu.be/ErDS9TIQoWU?si=58DcaqFzbJvRZW9g, Anthropic Dev Blog, Vercel Dev Blog, OpenHands Dev Blog, Block Goose, +++*
+
+Profound Gratitude to all of the OG women and men mathematicians, engineers, scientists and researchers from The 9th-century Persian mathematician Muhammad ibn Mūsā al-Khwārizmī who is widely credited as the inventor of the algorithm (The word "algorithm" is a direct, albeit slightly altered, derivative of "Al-Khwarizmi"), to Ada Lovelace (19th Century/1843): Credited with creating the first algorithm designed to be processed by a machine, and the numerous others who paved the way for me, and all of us.  Gregory 
