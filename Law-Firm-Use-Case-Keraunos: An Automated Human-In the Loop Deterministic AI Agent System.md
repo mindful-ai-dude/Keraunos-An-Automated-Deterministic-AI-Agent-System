@@ -25,6 +25,7 @@ Keraunos generates code and documents and *proves* it works.
 Self-hosted. Air-gappable. Built on custom fine-tuned open-source models for your specific use cases.
 
 ---
+## Law Firm Use Case 
 ![Legal Use Case](images/legal_use_case.png)
 
 ## Table of Contents
