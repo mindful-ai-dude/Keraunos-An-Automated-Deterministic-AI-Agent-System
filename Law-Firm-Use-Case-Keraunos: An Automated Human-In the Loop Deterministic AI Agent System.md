@@ -1,7 +1,8 @@
 ### Keraunos: An Automated Human-In the Loop Deterministic AI Agent System
+![Keraunos Logo](images/v1_keraunos_ai_logo.jpg)
 
-### Keraunos for Law Firms: Use Case
-## The Synthesis: Law Firm Use Case (Small, Medium and Large Law Firms)
+## The Synthesis: Law Firm Use Case 
+### Small, Medium and Large Law Firms
 
 ![Legal Use Case](images/legal_use_case.png)
 
