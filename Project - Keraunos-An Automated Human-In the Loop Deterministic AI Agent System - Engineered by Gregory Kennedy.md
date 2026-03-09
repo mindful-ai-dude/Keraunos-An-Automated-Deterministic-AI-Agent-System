@@ -21,7 +21,7 @@ Ten deterministic stages. Sixty-four custom MCP tools. Every output passes autom
 
 **The Keraunos pipeline can verify its own remediations. Fix a problem, re-scan, confirm it is resolved — all in one automated flow. No other available tool closes the loop deterministically.**
 
-The ancient Greeks understood that true power is not brute force it is force applied with divine precision. The Cyclopes did not forge a bigger hammer. They forged a bolt that never missed.
+The ancient Greeks understood that true power is not brute force, it is force applied with divine precision. The Cyclopes forged a bolt that never missed.
 
 Keraunos does not generate code or documents and hope they work.  
 Keraunos generates code and documents and *proves* it works.
