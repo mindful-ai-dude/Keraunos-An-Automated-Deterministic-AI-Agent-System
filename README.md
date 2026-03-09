@@ -85,7 +85,7 @@ Self-hosted. Air-gappable. Built on custom fine-tuned open-source models for you
 
 Keraunos synthesizes cutting-edge approaches into a unified deterministic system:
 
-**Stripe's Minions Blueprint Pattern** — Deterministic orchestration nodes interleaved with bounded non-deterministic LLM reasoning. The core insight: "putting LLMs into contained boxes compounds into system-wide reliability upside." Over 1,000 merged PRs/week at Stripe using this exact pattern.
+**Stripe's Minions Blueprint Pattern** — Deterministic orchestration nodes interleaved with bounded non-deterministic LLM reasoning. The core insight: "putting LLMs into secure containers compounds into system-wide reliability upside." Over 1,000 merged PRs/week at Stripe using this exact pattern.
 
 **AGENTS.md Passive Context** — Vercel's research proves that embedding compressed documentation directly into AGENTS.md achieves 100% pass rates in agent evals, compared to 53% baseline and 79% for actively-triggered skills. Passive context eliminates the decision point where agents fail to invoke available tools.
 
