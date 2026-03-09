@@ -57,7 +57,7 @@ Keraunos addresses every failure point:
 
 ![Legal Use Case Pipeline](images/legal_use_case_pipeline.png)
 
-When a legal professional triggers Keraunos (via the OpenWebUI chat interface, typing `/legal Draft an NDA for...`), the following 10-stage pipeline executes:
+When a legal professional triggers Keraunos (typing `/legal Draft an NDA for...`), the following 10-stage pipeline executes:
 
 ![AI Sequential AI Legal Pipeline](images/legal_pipeline_diagram_color.png)
 
