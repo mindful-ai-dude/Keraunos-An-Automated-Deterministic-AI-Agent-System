@@ -12,7 +12,6 @@ Context is served via a centralized MCP Toolshed pre-hydrated with the firm's cl
 Output: a complete, jurisdiction-verified, citation-checked legal document with a compliance certification, a redline showing all AI-generated content, and a risk assessment — all produced under a deterministic audit trail that satisfies bar association requirements for AI-assisted legal work. The firm's custom fine-tuned model (distilled from a 14B Teacher to a 3B Student using the firm's own approved precedent library) ensures terminology, tone, and formatting match the firm's existing work product exactly. Self-hosted on the firm's own infrastructure — no client data ever leaves the firm's network.
 
 ---
-
 ## 1. The Problem: Why Law Firms Need Keraunos
 
 ### 1.1 The Document Volume Crisis
@@ -53,11 +52,9 @@ Keraunos addresses every failure point:
 
 ---
 ## 2. The Keraunos Legal Pipeline: 10 Stages
-
 ![Legal Use Case Pipeline](images/legal_use_case_pipeline.png)
 
 When a legal professional triggers Keraunos (typing `/legal Draft an NDA for...`), the following 10-stage pipeline executes:
-
 ![AI Sequential AI Legal Pipeline](images/legal_pipeline_diagram_color.png)
 ---
 
