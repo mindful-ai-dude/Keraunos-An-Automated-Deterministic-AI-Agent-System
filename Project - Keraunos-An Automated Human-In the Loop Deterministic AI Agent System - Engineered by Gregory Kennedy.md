@@ -96,7 +96,7 @@ This overview synthesizes three cutting-edge approaches into a unified, implemen
 
 ---
 ### Keraunos for Law Firms: Use Case
-## The Synthesis: Law Firm Use Case (Small, Medium and Large Law Firms)
+## The Synthesis: Law Firm Use Case
 
 ![Legal Use Case](images/legal_use_case.png)
 
