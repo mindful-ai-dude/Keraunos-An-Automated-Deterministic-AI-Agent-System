@@ -164,7 +164,7 @@ When a legal professional triggers Keraunos (typing `/legal Draft an NDA for...`
 ### Stage Details
 
 **Stage 1: Matter Intake & Classification (Deterministic)**
-MCP tools parse the request and extract: document type (NDA, MSA, SPA, brief, memo), jurisdiction (state, federal, international), practice area (corporate, IP, employment, litigation, regulatory), parties and roles, key commercial terms, and governing law. This is pure pattern matching and entity extraction — no LLM creativity needed.
+MCP tools parse the request and extract: document type (NDA, MSA, SPA, brief, memo), jurisdiction (state, federal, international), practice area (corporate, IP, employment, litigation, regulatory), parties and roles, key commercial terms, and governing law. This is pure pattern matching and entity extraction — no LLM needed.
 
 **Stage 2: Document Architecture (Non-Deterministic, Bounded)**
 The LLM — using the firm's custom fine-tuned model — designs the document structure: which sections to include, which clauses are required vs optional for this jurisdiction, which firm templates to reference. Output is structured JSON validated against the firm's document schema.
